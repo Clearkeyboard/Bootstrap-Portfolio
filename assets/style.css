@@ -63,6 +63,7 @@ textarea{
 	float: left;
     width: 100%;
     padding-bottom: 5%;
+	margin-bottom: 10%;
 }
 #imagewrapper{
     margin-left: 0px;
@@ -90,11 +91,11 @@ textarea{
 #stickyfooter {
 	height: 45px;
 	background: #2ECC71;
-	position: fixed;
 	border-width: 5px;
 	bottom:0;
 	left: 0;
 	right: 0;
+	position: fixed;
 }
 #CP{
     margin-top: 10px;
@@ -117,22 +118,18 @@ body{
 	flex-direction: column;
 }
 #bar{
-	height: 55px;
 	background-color: #9CE19C;	
 	font-variant: small-caps;
 	position: relative;
 	bottom: 100px;
-	width: auto;
 
 }
 #bartext{
 	color: #444;
-	padding-top: 10%;
-	text-align: right;
+	padding-top: 10px;
+	text-align: center;
 	font-weight: bolder;
-	padding-right: 5%;
-	padding-bottom: 10%;
-	font-size: 1.1em;
+	padding-bottom: 10px;
 	display: block;
 	text-decoration: none;
 }
@@ -148,7 +145,7 @@ a:hover{
 	background-color: #fff;
 	float: left;
 	padding: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }	
 input{
 	width: 100%;
