@@ -195,8 +195,9 @@ textarea[type=message]:focus {
 }
 #portwrap{
 	margin-right: auto;
-	margin-bottom: 40px;
     margin-top: 2%;
 	float: left;
-	height: 180px;
+}
+img{
+	width: 100%;
 }
