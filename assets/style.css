@@ -55,6 +55,11 @@ textarea{
 	color: #595959;
     margin-top: 5%;
 }
+#abouttext2{	
+	line-height: 150%;
+	font-kerning: normal;
+	color: #595959;
+}
 #ConnectWithMe{
 	border-style: solid;
 	border-width: 1.5px;
